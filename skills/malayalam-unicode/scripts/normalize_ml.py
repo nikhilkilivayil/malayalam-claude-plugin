@@ -159,9 +159,9 @@ SELFTESTS = [
     ("എന്റെ", "എന്റെ"),
     # au sign: archaic ൌ and decomposed െ+ൗ -> ൗ
     ("കൌതുകം", "കൗതുകം"),
-    ("കൌതുകം", "കൗതുകം"),
+    ("കൌതുകം", "കൗതുകം"),
     # two-part vowel signs: decomposed and mis-ordered
-    ("കോട്ടയം", "കോട്ടയം"),
+    ("കോട്ടയം", "കോട്ടയം"),
     ("കാേട്ടയം", "കോട്ടയം"),
     ("കാെച്ചി", "കൊച്ചി"),
     # colon used as visarga
