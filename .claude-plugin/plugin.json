@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "malayalam",
+  "displayName": "Malayalam",
+  "version": "1.0.0",
+  "description": "Write, proofread, translate and transliterate Malayalam (മലയാളം) correctly. Teaches Claude modern Malayalam orthography and Unicode hygiene (atomic chillus, ZWJ/ZWNJ, ന്റ, ൗ), register and politeness, Kerala-specific conventions for dates, numbers and place names, and Manglish-to-Malayalam conversion. Includes /manglish, /proofread-ml and /translate-ml commands and a Malayalam Unicode normalizer script.",
+  "author": {
+    "name": "Nikhil Kilivayil",
+    "email": "nikhilkilivayil@gmail.com",
+    "url": "https://github.com/nikhilkilivayil"
+  },
+  "homepage": "https://github.com/nikhilkilivayil/malayalam-claude-plugin",
+  "repository": "https://github.com/nikhilkilivayil/malayalam-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "malayalam",
+    "kerala",
+    "indic",
+    "language",
+    "translation",
+    "transliteration",
+    "manglish",
+    "proofreading",
+    "unicode",
+    "localization"
+  ]
+}

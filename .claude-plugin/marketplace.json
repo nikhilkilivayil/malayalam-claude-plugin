@@ -1,0 +1,26 @@
+{
+  "name": "malayalam-plugins",
+  "owner": {
+    "name": "Nikhil Kilivayil",
+    "email": "nikhilkilivayil@gmail.com"
+  },
+  "metadata": {
+    "description": "Malayalam language plugins for Claude Code and Claude Cowork",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "malayalam",
+      "source": "./",
+      "description": "Write, proofread, translate and transliterate Malayalam correctly: modern orthography, Unicode hygiene, register, Kerala conventions, Manglish conversion.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nikhil Kilivayil"
+      },
+      "homepage": "https://github.com/nikhilkilivayil/malayalam-claude-plugin",
+      "license": "MIT",
+      "keywords": ["malayalam", "kerala", "indic", "translation", "transliteration", "manglish"],
+      "category": "productivity"
+    }
+  ]
+}
